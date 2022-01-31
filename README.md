@@ -8,7 +8,7 @@
    ********************
  </p>
  
- - <p>:handshake: My name is Isaque Cruz.</p>
+ - <p>:handshake: My name is Isaque Cruz dos Santos.</p>
 - <p>🌎 From São Paulo - SP.  </p>
 - <p> 🤵 I'm an intern and I've been working as a back-end and front-end developer since 2021.</p>
 - <p> 💼 Back-end and front-end development intern at Stefanini Group.</p>
